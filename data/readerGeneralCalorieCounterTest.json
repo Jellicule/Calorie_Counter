@@ -1,0 +1,22 @@
+{
+  "bodyWeight": "64",
+  "height": "165",
+  "age": "20",
+  "sex": "Male",
+  "goal": "Lean Bulk",
+  "activity": "Moderately Active",
+  "food": [
+      {
+        "macro": "CARBOHYDRATE",
+        "amount": "100",
+        "name": "Rice",
+        "calories": "130"
+      },
+      {
+        "macro": "FAT",
+        "amount": "250",
+        "name": "Milk",
+        "calories": "127"
+      }
+  ]
+}

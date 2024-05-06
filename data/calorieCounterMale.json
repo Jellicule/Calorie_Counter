@@ -1,0 +1,52 @@
+{
+    "goal": "Lean Bulk",
+    "activity": "Moderately Active",
+    "sex": "Male",
+    "bodyWeight": "64",
+    "age": "20",
+    "food": [
+        {
+            "macro": "CARBOHYDRATE",
+            "amount": "100",
+            "name": "Rice",
+            "calories": "130"
+        },
+        {
+            "macro": "FAT",
+            "amount": "250",
+            "name": "Milk",
+            "calories": "127"
+        },
+        {
+            "macro": "PROTEIN",
+            "amount": "56",
+            "name": "Chicken Breast",
+            "calories": "75"
+        },
+        {
+            "macro": "CARBOHYDRATE",
+            "amount": "40",
+            "name": "Bread",
+            "calories": "108"
+        },
+        {
+            "macro": "PROTEIN",
+            "amount": "100",
+            "name": "Pork Chop",
+            "calories": "211"
+        },
+        {
+            "macro": "FAT",
+            "amount": "250",
+            "name": "Milk",
+            "calories": "127"
+        },
+        {
+            "macro": "PROTEIN",
+            "amount": "100",
+            "name": "Pork Chop",
+            "calories": "211"
+        }
+    ],
+    "height": "165"
+}

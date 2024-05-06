@@ -1,0 +1,22 @@
+{
+    "goal": "Lean Bulk",
+    "activity": "Moderately Active",
+    "sex": "Male",
+    "bodyWeight": "64",
+    "age": "20",
+    "food": [
+        {
+            "macro": "CARBOHYDRATE",
+            "amount": "40",
+            "name": "Bread",
+            "calories": "180"
+        },
+        {
+            "macro": "PROTEIN",
+            "amount": "56",
+            "name": "Chicken Breast",
+            "calories": "75"
+        }
+    ],
+    "height": "165"
+}
